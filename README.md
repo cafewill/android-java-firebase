@@ -8,10 +8,10 @@ This is a simple App for Firebase util (Android, Java)
 
 ## Getting Start
 
-* Step 1 : First of All \
+* Step 1 : First of all \
 Create Firebase project and replace the google-services.json with yours. 
 
-* Step 2 : Build and Run \
+* Step 2 : Build and run \
 Open project with Android studio. \
 Build and run project.
 
