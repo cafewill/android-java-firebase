@@ -1,4 +1,4 @@
-# android-java-firebase-devel
+# android-java-firebase
 
 This is a simple App for Firebase util (Android, Java)
 
