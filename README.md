@@ -12,7 +12,7 @@ This is a simple App for Firebase util (Android, Java)
 Create Firebase project and replace the google-services.json with yours. 
 
 * Step 2 : Build and Run \
-Open project with Android studio \
+Open project with Android studio. \
 Build and run project.
 
 * Step 3 Check token and messages \
