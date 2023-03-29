@@ -13,7 +13,7 @@ Create Firebase project and replace the google-services.json with yours.
 
 * Step 2 : Build and Run \
 Open project with Android studio \
-Build and run project
+Build and run project.
 
 * Step 3 Check token and messages \
 Check token, for example : [dsmG***** ... ...] \
