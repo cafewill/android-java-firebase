@@ -51,7 +51,7 @@ public class FirebaseRoger extends FirebaseMessagingService
         PendingIntent intent = PendingIntent.getActivity (getApplicationContext (), notificationId, params, PendingIntent.FLAG_UPDATE_CURRENT);
         NotificationCompat.Builder notificationBuilder =
                 new NotificationCompat.Builder (getApplicationContext (), channelId)
-                        .setSmallIcon (R.mipmap.ic_launcher_round)
+                        .setSmallIcon (R.mipmap.ic_launcher)
                         .setAutoCancel (false)
                         .setShowWhen (true)
                         .setWhen (System.currentTimeMillis ())
